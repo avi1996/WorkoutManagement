@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Workout Management</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_log">CreateLog</string>
+    <string name="title_activity_weights">Weights</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="weight_setting">Weight Setting</string>
+    <string name="sets">Sets</string>
+    <string name="reps">Reps</string>
+    <string name="muscle_group">Muscle Group</string>
+    <string name="lbs">lbs</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="create_log">Create log</string>
+    <string name="title_activity_workout_history">WorkoutHistory</string>
+
+</resources>
